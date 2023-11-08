@@ -22,3 +22,4 @@ data <- read_excel("CPI_2020.xlsx", sheet = 1, col_names = TRUE, skip = 1)
 class(data)
 
 
+vhgbjnkmljnhbgvfhc
