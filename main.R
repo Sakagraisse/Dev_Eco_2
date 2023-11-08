@@ -13,7 +13,6 @@ library(ecm)
 library(readxl)
 library(vars)
 library(urca)
-library(urca)
 
 #clean the environment
 rm(list = ls())
