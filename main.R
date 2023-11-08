@@ -18,7 +18,7 @@ library(urca)
 #clean the environment
 rm(list = ls())
 ### data cleaning ###
-data <- read_excel("CPI_2020.xlsx", sheet = 1, col_names = TRUE, skip = 1)
+data <- read_excel("je-", sheet = 1, col_names = TRUE, skip = 1)
 #check which type is data
 class(data)
 
